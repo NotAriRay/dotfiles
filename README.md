@@ -4,5 +4,6 @@
 
 # Screenshots
 
-[Screenshot 1](/Screenshots/SS1.png)
-[Screenshot 2](/Screenshots/SS2.png)
+![Screenshot 1](/Screenshots/SS1.png)
+
+![Screenshot 2](/Screenshots/SS2.png)
