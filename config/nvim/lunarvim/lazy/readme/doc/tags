@@ -1,0 +1,127 @@
+!_TAG_FILE_ENCODING	utf-8	//
+ascii.nvim-ascii-nvim	ascii.nvim.md	/# Ascii.nvim
+ascii.nvim-browse-using-poup	ascii.nvim.md	/### Browse using poup
+ascii.nvim-categories	ascii.nvim.md	/## Categories
+ascii.nvim-create-your-own-and-contribute	ascii.nvim.md	/## Create your own and contribute
+ascii.nvim-installaton	ascii.nvim.md	/## Installaton
+ascii.nvim-telescope-integration	ascii.nvim.md	/## Telescope integration
+ascii.nvim-todo	ascii.nvim.md	/### Todo
+ascii.nvim-usage	ascii.nvim.md	/## Usage
+bigfile.nvim-bigfile-nvim	bigfile.nvim.md	/# bigfile.nvim
+bigfile.nvim-caveats	bigfile.nvim.md	/# Caveats
+bigfile.nvim-customization	bigfile.nvim.md	/## Customization
+bigfile.nvim-features-integrations	bigfile.nvim.md	/# Features\/integrations
+bigfile.nvim-installation	bigfile.nvim.md	/## Installation
+bigfile.nvim-overriding-the-detection-of-big-files	bigfile.nvim.md	/### Overriding the detection of big files
+bigfile.nvim-setup	bigfile.nvim.md	/# Setup
+cmp-buffer-all-buffers	cmp-buffer.md	/##### All buffers
+cmp-buffer-cmp-buffer	cmp-buffer.md	/# cmp-buffer
+cmp-buffer-configuration	cmp-buffer.md	/## Configuration
+cmp-buffer-get-bufnrs-type-fun-number	cmp-buffer.md	/### get_bufnrs (type: fun(): number\[\])
+cmp-buffer-indexing-and-how-to-optimize-it	cmp-buffer.md	/## Indexing and how to optimize it
+cmp-buffer-indexing-batch-size-type-number	cmp-buffer.md	/### indexing_batch_size (type: number)
+cmp-buffer-indexing-interval-type-number	cmp-buffer.md	/### indexing_interval (type: number)
+cmp-buffer-keyword-length-type-number	cmp-buffer.md	/### keyword_length (type: number)
+cmp-buffer-keyword-pattern-type-string	cmp-buffer.md	/### keyword_pattern (type: string)
+cmp-buffer-locality-bonus-comparator-distance-based-sorting	cmp-buffer.md	/## Locality bonus comparator (distance-based sorting)
+cmp-buffer-max-indexed-line-length-type-number	cmp-buffer.md	/### max_indexed_line_length (type: number)
+cmp-buffer-performance-on-large-text-files	cmp-buffer.md	/### Performance on large text files
+cmp-buffer-setup	cmp-buffer.md	/## Setup
+cmp-buffer-visible-buffers	cmp-buffer.md	/##### Visible buffers
+cmp-path-cmp-path	cmp-path.md	/# cmp-path
+cmp-path-configuration	cmp-path.md	/## Configuration
+cmp-path-get-cwd-type-function	cmp-path.md	/### get_cwd (type: function)
+cmp-path-label-trailing-slash-type-boolean	cmp-path.md	/### label_trailing_slash (type: boolean)
+cmp-path-setup	cmp-path.md	/# Setup
+cmp-path-trailing-slash-type-boolean	cmp-path.md	/### trailing_slash (type: boolean)
+cmp_luasnip-cmp-luasnip	cmp_luasnip.md	/# cmp_luasnip
+friendly-snippets-add-snippets-from-a-framework-to-a-filetype	friendly-snippets.md	/## Add snippets from a framework to a filetype.
+friendly-snippets-credits	friendly-snippets.md	/## Credits
+friendly-snippets-excluding-snippets	friendly-snippets.md	/## Excluding snippets
+friendly-snippets-friendly-snippets	friendly-snippets.md	/# Friendly Snippets
+friendly-snippets-html	friendly-snippets.md	/### HTML
+friendly-snippets-install	friendly-snippets.md	/## Install
+friendly-snippets-js	friendly-snippets.md	/### JS
+friendly-snippets-showcase	friendly-snippets.md	/## Showcase
+friendly-snippets-thanks-to-all-contributors	friendly-snippets.md	/## Thanks to all contributors
+friendly-snippets-todo	friendly-snippets.md	/## TODO
+friendly-snippets-usage	friendly-snippets.md	/## Usage
+friendly-snippets-with-coc-nvim	friendly-snippets.md	/### With coc.nvim
+friendly-snippets-with-lazy-nvim	friendly-snippets.md	/### With Lazy.nvim
+friendly-snippets-with-packer	friendly-snippets.md	/### With Packer
+friendly-snippets-with-vim-plug	friendly-snippets.md	/### With vim-plug
+lunar.nvim-lunar-nvim	lunar.nvim.md	/# lunar.nvim
+neocord-configuration	neocord.md	/## Configuration
+neocord-features	neocord.md	/## Features
+neocord-installation	neocord.md	/## Installation
+neocord-lua	neocord.md	/### Lua
+neocord-notes	neocord.md	/#### Notes
+neocord-special-thanks	neocord.md	/## Special Thanks:
+neocord-viml	neocord.md	/### VimL
+nvim-moonmaker-moonmaker	nvim-moonmaker.md	/## MoonMaker
+nvim-web-devicons-contributing	nvim-web-devicons.md	/## Contributing
+nvim-web-devicons-get-all-icons	nvim-web-devicons.md	/### Get all icons
+nvim-web-devicons-get-icon	nvim-web-devicons.md	/### Get Icon
+nvim-web-devicons-get-icon-and-color-code	nvim-web-devicons.md	/### Get icon and color code
+nvim-web-devicons-getting-and-setting-icons-by-filetype	nvim-web-devicons.md	/### Getting and setting icons by filetype
+nvim-web-devicons-installation	nvim-web-devicons.md	/## Installation
+nvim-web-devicons-known-issues	nvim-web-devicons.md	/## Known Issues
+nvim-web-devicons-notice	nvim-web-devicons.md	/# Notice
+nvim-web-devicons-nvim-web-devicons	nvim-web-devicons.md	/# Nvim-web-devicons
+nvim-web-devicons-requirements	nvim-web-devicons.md	/## Requirements
+nvim-web-devicons-set-an-icon	nvim-web-devicons.md	/### Set an icon
+nvim-web-devicons-setup	nvim-web-devicons.md	/### Setup
+nvim-web-devicons-usage	nvim-web-devicons.md	/## Usage
+nvim-web-devicons-variants	nvim-web-devicons.md	/### Variants
+nvim-web-devicons-viewing	nvim-web-devicons.md	/### Viewing
+nvim-web-devicons-windows-and-wsl-not-rendering-icons-properly-on-some-terminals	nvim-web-devicons.md	/### Windows and WSL not rendering icons properly on some terminals
+one_monokai.nvim-available-colors-and-themes	one_monokai.nvim.md	/#### Available colors and themes
+one_monokai.nvim-champagne-plugins-support	one_monokai.nvim.md	/## :champagne: Plugins support
+one_monokai.nvim-customization-example	one_monokai.nvim.md	/### Customization example
+one_monokai.nvim-default	one_monokai.nvim.md	/### Default
+one_monokai.nvim-example	one_monokai.nvim.md	/#### Example
+one_monokai.nvim-eyes-inspiration	one_monokai.nvim.md	/## :eyes: Inspiration
+one_monokai.nvim-gear-setup	one_monokai.nvim.md	/## :gear: Setup
+one_monokai.nvim-options	one_monokai.nvim.md	/### Options
+one_monokai.nvim-requirement	one_monokai.nvim.md	/### Requirement
+one_monokai.nvim-rocket-installation	one_monokai.nvim.md	/## :rocket: Installation
+one_monokai.nvim-scroll-contribution	one_monokai.nvim.md	/## :scroll: Contribution
+onedarker.nvim-onedarker	onedarker.nvim.md	/# Onedarker
+project.nvim-api	project.nvim.md	/## API
+project.nvim-configuration	project.nvim.md	/## ⚙️ Configuration
+project.nvim-contributing	project.nvim.md	/## 🤝 Contributing
+project.nvim-features	project.nvim.md	/## ✨ Features
+project.nvim-installation	project.nvim.md	/## 📦 Installation
+project.nvim-packer-https-github-com-wbthomason-packer-nvim	project.nvim.md	/### \[packer\](https:\/\/github.com\/wbthomason\/packer.nvim)
+project.nvim-pattern-matching	project.nvim.md	/### Pattern Matching
+project.nvim-project-nvim	project.nvim.md	/# 🗃️ project.nvim
+project.nvim-requirements	project.nvim.md	/## ⚡ Requirements
+project.nvim-telescope-integration	project.nvim.md	/### Telescope Integration
+project.nvim-telescope-mappings	project.nvim.md	/#### Telescope mappings
+project.nvim-telescope-projects-picker	project.nvim.md	/#### Telescope Projects Picker
+project.nvim-vim-plug-https-github-com-junegunn-vim-plug	project.nvim.md	/### \[vim-plug\](https:\/\/github.com\/junegunn\/vim-plug)
+structlog.nvim-complete	structlog.nvim.md	/### Complete
+structlog.nvim-design	structlog.nvim.md	/## Design
+structlog.nvim-formatters	structlog.nvim.md	/### Formatters
+structlog.nvim-installation	structlog.nvim.md	/## Installation
+structlog.nvim-minimal	structlog.nvim.md	/### Minimal
+structlog.nvim-processors	structlog.nvim.md	/### Processors
+structlog.nvim-sinks	structlog.nvim.md	/### Sinks
+structlog.nvim-structlog-nvim	structlog.nvim.md	/# structlog.nvim
+structlog.nvim-usage	structlog.nvim.md	/## Usage
+structlog.nvim-why-using-it	structlog.nvim.md	/## Why using it
+telescope-fzf-native.nvim-benchmark	telescope-fzf-native.nvim.md	/## Benchmark
+telescope-fzf-native.nvim-c-interface	telescope-fzf-native.nvim.md	/### C Interface
+telescope-fzf-native.nvim-cmake-windows-linux-macos	telescope-fzf-native.nvim.md	/### CMake (Windows, Linux, MacOS)
+telescope-fzf-native.nvim-credit	telescope-fzf-native.nvim.md	/## Credit
+telescope-fzf-native.nvim-developer-interface	telescope-fzf-native.nvim.md	/## Developer Interface
+telescope-fzf-native.nvim-disclaimer	telescope-fzf-native.nvim.md	/## Disclaimer
+telescope-fzf-native.nvim-installation	telescope-fzf-native.nvim.md	/## Installation
+telescope-fzf-native.nvim-lazy-nvim	telescope-fzf-native.nvim.md	/#### lazy.nvim
+telescope-fzf-native.nvim-lua-interface	telescope-fzf-native.nvim.md	/### Lua Interface
+telescope-fzf-native.nvim-make-linux-macos-windows-with-mingw	telescope-fzf-native.nvim.md	/### Make (Linux, MacOS, Windows with MinGW)
+telescope-fzf-native.nvim-packer-nvim	telescope-fzf-native.nvim.md	/#### packer.nvim
+telescope-fzf-native.nvim-telescope-fzf-native-nvim	telescope-fzf-native.nvim.md	/# telescope-fzf-native.nvim
+telescope-fzf-native.nvim-telescope-setup-and-configuration	telescope-fzf-native.nvim.md	/## Telescope Setup and Configuration:
+telescope-fzf-native.nvim-todo	telescope-fzf-native.nvim.md	/### TODO
+telescope-fzf-native.nvim-vim-plug	telescope-fzf-native.nvim.md	/#### vim-plug
