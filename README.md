@@ -1,6 +1,9 @@
 # Dots
 
-- This repository is a collection of all the dotfiles for my macOS rice. If you encounter any errors, please create a issue on github.
+- This repository is a collection of all the dotfiles for my macOS rice.
+
+> [!TIP]
+> If you encounter any issues or need help please open up an [issue](https://github.com/NotAriRay/dotfiles/issues) here on github
 
 # Details
 
