@@ -1,11 +1,12 @@
 #!/bin/bash
 
 options=(
-	style=round
-	width=4.0
+	style=rounded
+  blacklist="Kando,iPhone Mirroring,Screen Studio, CleanMyMac X"
+	width=7.0
 	hidpi=off
-	active_color=0xff7aa2f7 
-	inactive_color=0xff1C1E26
+  active_color=0xffea9a97
+	inactive_color=0xFF44415a
 )
 
 borders "${options[@]}"

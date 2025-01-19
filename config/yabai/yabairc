@@ -1,0 +1,19 @@
+yabai -m signal --add event=dock_did_restart action="sudo yabai --load-sa"
+sudo yabai --load-sa
+
+yabai -m config layout bsp
+
+yabai -m config top_padding    47
+yabai -m config bottom_padding 20
+yabai -m config left_padding   20
+yabai -m config right_padding  20
+yabai -m config window_gap     20
+
+yabai -m rule --add app="^System Settings$" manage=off
+yabai -m rule --add app="^Calculator$" manage=off
+yabai -m rule --add app="^QuickTime Player$" manage=off
+yabai -m rule --add app="^java$" manage=off
+yabai -m rule --add app="^revolution.exe$" manage=off
+yabai -m rule --add app="^Titanfall2.exe$" manage=off
+yabai -m rule --add app="^wine64-preloader$" manage=off
+yabai -m rule --add app="^BioShock Remastered$" manage = off

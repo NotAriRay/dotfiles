@@ -8,23 +8,14 @@
 # Details
 
 - Text Editor: [Neovim](https://neovim.io)
-- Window Manager: [Amethyst](https://ianyh.com/amethyst/)
-- Bar: [Ice](https://github.com/jordanbaird/Ice)
-- Terminal: [iTerm2](https://iterm2.com)
+- Window Manager: [yabai](https://github.com/koekeishiya/yabai)
+- Hotkey Daemon: [skhd](https://github.com/koekeishiya/skhd)
+- Bar: [SketchyBar](https://github.com/FelixKratz/SketchyBar)
+- Terminal: [kitty](https://github.com/kovidgoyal/kitty)
 - Borders: [JankyBorders](https://github.com/FelixKratz/JankyBorders)
-
 
 # Screenshots
 
 ![Screenshot 1](/Screenshots/SS1.png)
 
 ![Screenshot 2](/Screenshots/SS2.png)
-
-# Tools in screenshots
-
-- [neovim](https://neovim.io)
-- [neofetch](https://github.com/dylanaraps/neofetch)
-- [gotop](https://github.com/cjbassi/gotop)
-- [tty-clock](https://github.com/xorg62/tty-clock)
-- [cbonsai](https://gitlab.com/jallbrit/cbonsai/)
-- [pipes.sh](https://github.com/pipeseroni/pipes.sh)
